@@ -1,0 +1,84 @@
+{
+  "name": "cordova-plugin-x-socialsharing",
+  "version": "5.2.1",
+  "description": "Share text, images (and other files), or a link via the native sharing widget of your device. Android is fully supported, as well as iOS 6 and up. WP8 has somewhat limited support.",
+  "cordova": {
+    "id": "cordova-plugin-x-socialsharing",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8",
+      "windows",
+      "web"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git"
+  },
+  "keywords": [
+    "Social",
+    "Share",
+    "Twitter",
+    "Facebook",
+    "Email",
+    "SMS",
+    "WhatsApp",
+    "Tumblr",
+    "Pocket",
+    "LinkedIn",
+    "cordova",
+    "WebShare",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "Eddy Verbruggen - @EddyVerbruggen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues"
+  },
+  "homepage": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#readme",
+  "gitHead": "ea07539955202581db3e5f5a9f296fae96362521",
+  "_id": "cordova-plugin-x-socialsharing@5.2.1",
+  "scripts": {},
+  "_shasum": "dbc354b993f9b7b1600396822d8202b73cc581f3",
+  "_from": "cordova-plugin-x-socialsharing@5.2.1",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.10.3",
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "dist": {
+    "shasum": "dbc354b993f9b7b1600396822d8202b73cc581f3",
+    "size": 183030,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-x-socialsharing/download/cordova-plugin-x-socialsharing-5.2.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-x-socialsharing-5.2.1.tgz_1508348281484_0.49444950511679053"
+  },
+  "directories": {},
+  "publish_time": 1508348282947,
+  "_cnpm_publish_time": 1508348282947,
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-x-socialsharing/download/cordova-plugin-x-socialsharing-5.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

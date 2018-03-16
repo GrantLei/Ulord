@@ -1,0 +1,74 @@
+{
+  "name": "cordova-plugin-touch-id",
+  "version": "3.3.1",
+  "description": "Scan the fingerprint of your user with the TouchID sensor, or the user's Face with Face ID on iPhone X",
+  "cordova": {
+    "id": "cordova-plugin-touch-id",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-touch-id.git"
+  },
+  "keywords": [
+    "TouchID",
+    "Touch ID",
+    "Face ID",
+    "iPhone X",
+    "Fingerprint",
+    "Biometric",
+    "Scanner",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com",
+    "url": "https://github.com/EddyVerbruggen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/cordova-plugin-touch-id/issues"
+  },
+  "homepage": "https://github.com/EddyVerbruggen/cordova-plugin-touch-id#readme",
+  "gitHead": "617579d034464c5250f28700c5762304977dc434",
+  "_id": "cordova-plugin-touch-id@3.3.1",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "6.10.3",
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "dist": {
+    "shasum": "7d06aca6672f2ee322c7db81ef8cc76d3e58713f",
+    "size": 6867,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-touch-id/download/cordova-plugin-touch-id-3.3.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-touch-id-3.3.1.tgz_1509977147053_0.8336819605901837"
+  },
+  "directories": {},
+  "publish_time": 1509977147958,
+  "_hasShrinkwrap": false,
+  "_cnpm_publish_time": 1509977147958,
+  "_shasum": "7d06aca6672f2ee322c7db81ef8cc76d3e58713f",
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-touch-id/download/cordova-plugin-touch-id-3.3.1.tgz",
+  "_from": "cordova-plugin-touch-id@3.3.1",
+  "readme": "ERROR: No README data found!"
+}

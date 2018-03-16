@@ -1,0 +1,65 @@
+{
+  "name": "cordova-plugin-android-fingerprint-auth",
+  "version": "1.4.0",
+  "description": "Cordova plugin to use Android fingerprint authentication API",
+  "cordova": {
+    "id": "cordova-plugin-android-fingerprint-auth",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjwheatley/cordova-plugin-android-fingerprint-auth.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "android",
+    "fingerprint",
+    "authentication",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": {
+    "name": "Matthew Wheatley"
+  },
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mjwheatley/cordova-plugin-android-fingerprint-auth/issues"
+  },
+  "homepage": "https://github.com/mjwheatley/cordova-plugin-android-fingerprint-auth#readme",
+  "gitHead": "90f6b0e08cd2c2d9ad35027e4008df404653889f",
+  "_id": "cordova-plugin-android-fingerprint-auth@1.4.0",
+  "scripts": {},
+  "_shasum": "31262feb4b79ed9a924ce043fa773578d588fb86",
+  "_from": "cordova-plugin-android-fingerprint-auth@1.4.0",
+  "_npmVersion": "4.0.3",
+  "_nodeVersion": "4.4.7",
+  "_npmUser": {
+    "name": "mwheatley",
+    "email": "mjwheatley@tanoshiientertainment.com"
+  },
+  "dist": {
+    "shasum": "31262feb4b79ed9a924ce043fa773578d588fb86",
+    "size": 376423,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-android-fingerprint-auth/download/cordova-plugin-android-fingerprint-auth-1.4.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "mwheatley",
+      "email": "mwheatley@diamondfortress.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-android-fingerprint-auth-1.4.0.tgz_1505920170358_0.18148073181509972"
+  },
+  "directories": {},
+  "publish_time": 1505920173915,
+  "_hasShrinkwrap": false,
+  "_cnpm_publish_time": 1505920173915,
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-android-fingerprint-auth/download/cordova-plugin-android-fingerprint-auth-1.4.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

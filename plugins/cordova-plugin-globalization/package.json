@@ -1,0 +1,123 @@
+{
+  "name": "cordova-plugin-globalization",
+  "version": "1.0.8",
+  "description": "Cordova Globalization Plugin",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-globalization",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "firefoxos",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows",
+      "tizen",
+      "blackberry10"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-globalization.git"
+  },
+  "bugs": {
+    "url": "https://issues.apache.org/jira/browse/CB"
+  },
+  "keywords": [
+    "cordova",
+    "globalization",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows",
+    "cordova-tizen",
+    "cordova-blackberry10"
+  ],
+  "scripts": {
+    "test": "npm run eslint",
+    "eslint": "eslint www && eslint src && eslint tests"
+  },
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-globalization#readme",
+  "_id": "cordova-plugin-globalization@1.0.8",
+  "_shasum": "faec53b495362ade9d70ab9048959fde26821b43",
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-globalization/download/cordova-plugin-globalization-1.0.8.tgz",
+  "_from": "cordova-plugin-globalization@1.0.8",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.6.0",
+  "_npmUser": {
+    "name": "stevegill",
+    "email": "stevengill97@gmail.com"
+  },
+  "dist": {
+    "shasum": "faec53b495362ade9d70ab9048959fde26821b43",
+    "size": 936183,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-globalization/download/cordova-plugin-globalization-1.0.8.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "macdonst",
+      "email": "simon.macdonald@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-globalization-1.0.8.tgz_1510361669279_0.2298999687191099"
+  },
+  "directories": {},
+  "publish_time": 1510361669418,
+  "_cnpm_publish_time": 1510361669418,
+  "_hasShrinkwrap": false,
+  "readme": "ERROR: No README data found!"
+}

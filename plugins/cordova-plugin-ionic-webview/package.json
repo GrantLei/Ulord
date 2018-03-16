@@ -1,0 +1,63 @@
+{
+  "name": "cordova-plugin-ionic-webview",
+  "version": "1.1.16",
+  "description": "The official Ionic's WKWebView Engine Plugin",
+  "main": "index.js",
+  "scripts": {
+    "sync_plugin_xml": "sync-cordova-xml package.json plugin.xml --output=plugin.xml",
+    "version": "npm run sync_plugin_xml && git add plugin.xml",
+    "deploy": "np --yolo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/cordova-plugin-ionic-webview.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/cordova-plugin-ionic-webview/issues"
+  },
+  "keywords": [
+    "cordova",
+    "wkwebview"
+  ],
+  "author": {
+    "name": "Ionic Team"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "np": "^2.16.0",
+    "sync-cordova-xml": "^0.4.0"
+  },
+  "gitHead": "41626521c1aab40f608acc09972ebbe1fca72d21",
+  "homepage": "https://github.com/ionic-team/cordova-plugin-ionic-webview#readme",
+  "_id": "cordova-plugin-ionic-webview@1.1.16",
+  "_npmVersion": "5.4.2",
+  "_nodeVersion": "8.7.0",
+  "_npmUser": {
+    "name": "manucorporat",
+    "email": "manu.mtza@gmail.com"
+  },
+  "dist": {
+    "shasum": "92d5f2e4a5a829f91b487b1761848765a31c9f1e",
+    "size": 65756,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-ionic-webview/download/cordova-plugin-ionic-webview-1.1.16.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "manucorporat",
+      "email": "manu.mtza@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-ionic-webview-1.1.16.tgz_1508486264927_0.47728348174132407"
+  },
+  "directories": {},
+  "publish_time": 1508486265907,
+  "_cnpm_publish_time": 1508486265907,
+  "_hasShrinkwrap": false,
+  "_shasum": "92d5f2e4a5a829f91b487b1761848765a31c9f1e",
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-ionic-webview/download/cordova-plugin-ionic-webview-1.1.16.tgz",
+  "_from": "cordova-plugin-ionic-webview@1.1.16",
+  "readme": "ERROR: No README data found!"
+}

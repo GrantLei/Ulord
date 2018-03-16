@@ -1,0 +1,97 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-spinner-dialog": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-uniquedeviceid": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-touch-id": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-transport-security": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-ios-requires-fullscreen": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-android-fingerprint-auth": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "bitcoin",
+      "SECOND_URL_SCHEME": "copay",
+      "THIRD_URL_SCHEME": "bitcoincash",
+      "ANDROID_SCHEME": " ",
+      "ANDROID_HOST": " ",
+      "ANDROID_PATHPREFIX": "/",
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    },
+    "cordova-plugin-fcm": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.bitpay.copay"
+    }
+  }
+}

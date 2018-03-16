@@ -1,0 +1,80 @@
+{
+  "name": "ionic-plugin-keyboard",
+  "version": "2.2.1",
+  "cordova": {
+    "id": "ionic-plugin-keyboard",
+    "platforms": [
+      "android",
+      "ios",
+      "blackberry10",
+      "wp8",
+      "windows"
+    ]
+  },
+  "description": "Ionic Keyboard Plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driftyco/ionic-plugin-keyboard.git"
+  },
+  "issue": "https://github.com/driftyco/ionic-plugin-keyboard/issues",
+  "keywords": [
+    "ionic",
+    "cordova",
+    "keyboard",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "author": {
+    "name": "Ionic"
+  },
+  "license": "Apache 2.0",
+  "gitHead": "011283b781a94ba9db9d87fc9531790fcd8aa7e7",
+  "bugs": {
+    "url": "https://github.com/driftyco/ionic-plugin-keyboard/issues"
+  },
+  "homepage": "https://github.com/driftyco/ionic-plugin-keyboard#readme",
+  "_id": "ionic-plugin-keyboard@2.2.1",
+  "scripts": {},
+  "_shasum": "f2a9e169bbe9b5522400347c9fd6d3467ee3fa12",
+  "_from": "ionic-plugin-keyboard@2.2.1",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "5.11.1",
+  "_npmUser": {
+    "name": "tlancina",
+    "email": "tim@ionic.io"
+  },
+  "dist": {
+    "shasum": "f2a9e169bbe9b5522400347c9fd6d3467ee3fa12",
+    "size": 1581284,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/ionic-plugin-keyboard/download/ionic-plugin-keyboard-2.2.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "drifty",
+      "email": "max@drifty.com"
+    },
+    {
+      "name": "ionicjs",
+      "email": "hi@ionicframework.com"
+    },
+    {
+      "name": "tlancina",
+      "email": "tim@ionic.io"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/ionic-plugin-keyboard-2.2.1.tgz_1466455438454_0.6977111059240997"
+  },
+  "directories": {},
+  "publish_time": 1466455439915,
+  "_cnpm_publish_time": 1466455439915,
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npm.taobao.org/ionic-plugin-keyboard/download/ionic-plugin-keyboard-2.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

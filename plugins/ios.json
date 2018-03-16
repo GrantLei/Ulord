@@ -1,0 +1,101 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-spinner-dialog": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-uniquedeviceid": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-touch-id": {
+      "FACEID_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-transport-security": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-ios-requires-fullscreen": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-android-fingerprint-auth": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "bitcoin",
+      "SECOND_URL_SCHEME": "Ulord Wallet",
+      "THIRD_URL_SCHEME": "bitcoincash",
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-fcm": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-swift-support": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.ulord.wallet"
+    }
+  }
+}

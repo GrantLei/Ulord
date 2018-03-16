@@ -1,0 +1,94 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-spinner-dialog": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-uniquedeviceid": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-touch-id": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-transport-security": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-ios-requires-fullscreen": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-android-fingerprint-auth": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "bitcoin",
+      "SECOND_URL_SCHEME": "copay",
+      "THIRD_URL_SCHEME": "bitcoincash",
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "Copay"
+    },
+    "cordova-plugin-fcm": {
+      "PACKAGE_NAME": "Copay"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "Copay"
+    }
+  }
+}

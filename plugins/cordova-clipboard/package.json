@@ -1,0 +1,64 @@
+{
+  "name": "cordova-clipboard",
+  "version": "1.1.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, and WP8",
+  "cordova": {
+    "id": "cordova-clipboard",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihadeed/cordova-clipboard.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "clipboard",
+    "phonegap",
+    "ionic"
+  ],
+  "author": {
+    "name": "Ibrahim Hadeed"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihadeed/cordova-clipboard/issues"
+  },
+  "homepage": "https://github.com/ihadeed/cordova-clipboard#readme",
+  "gitHead": "b3fa929ec4c4c57683927b9e74c8f85bed3911e0",
+  "_id": "cordova-clipboard@1.1.0",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.2.1",
+  "_npmUser": {
+    "name": "ihadeed",
+    "email": "ibby@zyra.ca"
+  },
+  "dist": {
+    "shasum": "cb86cff0361bce61ca34d6416253f942caa9ffac",
+    "size": 4546,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-clipboard/download/cordova-clipboard-1.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "ihadeed",
+      "email": "i.hadeed@zyra.ca"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-clipboard-1.1.0.tgz_1506648335060_0.8839181137736887"
+  },
+  "directories": {},
+  "publish_time": 1506648335923,
+  "_cnpm_publish_time": 1506648335923,
+  "_hasShrinkwrap": false,
+  "_shasum": "cb86cff0361bce61ca34d6416253f942caa9ffac",
+  "_resolved": "https://registry.npm.taobao.org/cordova-clipboard/download/cordova-clipboard-1.1.0.tgz",
+  "_from": "cordova-clipboard@1.1.0",
+  "readme": "ERROR: No README data found!"
+}

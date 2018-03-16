@@ -1,0 +1,80 @@
+{
+  "name": "cordova-plugin-transport-security",
+  "version": "0.1.2",
+  "author": {
+    "name": "Lee Crossley",
+    "email": "leee@hotmail.co.uk",
+    "url": "http://ilee.co.uk/"
+  },
+  "description": "Cordova / PhoneGap Plugin to allow 'Arbitrary Loads' by adding a declaration to the Info.plist file to bypass the iOS 9 App Transport Security",
+  "cordova": {
+    "id": "cordova-plugin-transport-security",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leecrossley/cordova-plugin-transport-security.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "security",
+    "transport",
+    "http",
+    "https",
+    "ats",
+    "ssl",
+    "tls",
+    "nsapptransportsecurity",
+    "nsallowsarbitraryloads",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leecrossley/cordova-plugin-transport-security/issues"
+  },
+  "homepage": "https://github.com/leecrossley/cordova-plugin-transport-security#readme",
+  "gitHead": "898f2a580f78c95b41870efa0412f3457a31f99d",
+  "_id": "cordova-plugin-transport-security@0.1.2",
+  "scripts": {},
+  "_shasum": "8f5d9ab56fba52e9072d042caf9fe72dd100cec6",
+  "_from": "cordova-plugin-transport-security@0.1.2",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.4.1",
+  "_npmUser": {
+    "name": "leecrossley",
+    "email": "leee@hotmail.co.uk"
+  },
+  "maintainers": [
+    {
+      "name": "leecrossley",
+      "email": "leee@hotmail.co.uk"
+    }
+  ],
+  "dist": {
+    "shasum": "8f5d9ab56fba52e9072d042caf9fe72dd100cec6",
+    "size": 2121,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-transport-security/download/cordova-plugin-transport-security-0.1.2.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-transport-security-0.1.2.tgz_1459283029061_0.7490508686751127"
+  },
+  "directories": {},
+  "publish_time": 1459283031548,
+  "_cnpm_publish_time": 1459283031548,
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-transport-security/download/cordova-plugin-transport-security-0.1.2.tgz",
+  "readme": "ERROR: No README data found!"
+}

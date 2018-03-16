@@ -1,0 +1,48 @@
+{
+  "version": "0.0.2",
+  "name": "cordova-ios-requires-fullscreen",
+  "cordova_name": "IOS UIRequiresFullScreen",
+  "description": "IOS UIRequiresFullScreen Plugin",
+  "license": "MIT",
+  "repo": "https://github.com/chancezeus/cordova-ios-requires-fullscreen.git",
+  "keywords": [
+    "cordova",
+    "ios",
+    "uirequiresfullscreen",
+    "ios9"
+  ],
+  "platforms": [
+    "ios"
+  ],
+  "engines": [],
+  "englishdoc": "",
+  "gitHead": "edcde97513254450221af8fed8a998c41855bf4f",
+  "_id": "cordova-ios-requires-fullscreen@0.0.2",
+  "scripts": {},
+  "_shasum": "2e139b3f920abedadd46b0bca7002c95b6162ac5",
+  "_from": "cordova-ios-requires-fullscreen@0.0.2",
+  "_npmVersion": "2.14.2",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "chancezeus",
+    "email": "mark@appelit.com"
+  },
+  "dist": {
+    "shasum": "2e139b3f920abedadd46b0bca7002c95b6162ac5",
+    "size": 749,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-ios-requires-fullscreen/download/cordova-ios-requires-fullscreen-0.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "chancezeus",
+      "email": "mark@appelit.com"
+    }
+  ],
+  "directories": {},
+  "publish_time": 1443351112868,
+  "_cnpm_publish_time": 1443351112868,
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npm.taobao.org/cordova-ios-requires-fullscreen/download/cordova-ios-requires-fullscreen-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}

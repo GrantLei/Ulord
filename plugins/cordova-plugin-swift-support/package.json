@@ -1,0 +1,90 @@
+{
+  "name": "cordova-plugin-swift-support",
+  "version": "3.1.1",
+  "description": "Add Swift 3 support for Cordova plugins",
+  "homepage": "https://github.com/bitjson/cordova-plugin-swift-support",
+  "cordova": {
+    "id": "cordova-plugin-swift-support",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitjson/cordova-plugin-swift-support.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "swift",
+    "swift-support",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova:plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "xcode": "^0.9.1"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^1.2.0",
+    "cz-conventional-changelog": "^1.2.0",
+    "ghooks": "^1.3.2",
+    "validate-commit-msg": "^2.8.2",
+    "xo": "^0.17.0"
+  },
+  "scripts": {
+    "test": "xo",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "prep-release": "git clean -dfx && npm install && npm test && npm run changelog"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    },
+    "ghooks": {
+      "commit-msg": "validate-commit-msg"
+    },
+    "validate-commit-msg": {
+      "helpMessage": "\nThis project uses commitizen to document changes. Please try:\nnpm install commitizen -g && git cz\n"
+    }
+  },
+  "gitHead": "f35a8427d1e005eb0e1aec3769c8dfcfa1a7de04",
+  "bugs": {
+    "url": "https://github.com/bitjson/cordova-plugin-swift-support/issues"
+  },
+  "bundleDependencies": [
+    "xcode"
+  ],
+  "_id": "cordova-plugin-swift-support@3.1.1",
+  "_shasum": "0ee58068fb65066a0126480ef9af3a4618c6b0c1",
+  "_from": "cordova-plugin-swift-support@latest",
+  "_npmVersion": "2.15.8",
+  "_nodeVersion": "4.4.7",
+  "_npmUser": {
+    "name": "jasondreyzehner",
+    "email": "jason@dreyzehner.com"
+  },
+  "maintainers": [
+    {
+      "name": "jasondreyzehner",
+      "email": "jason@dreyzehner.com"
+    }
+  ],
+  "dist": {
+    "shasum": "0ee58068fb65066a0126480ef9af3a4618c6b0c1",
+    "size": 473954,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-swift-support/download/cordova-plugin-swift-support-3.1.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-swift-support-3.1.1.tgz_1487105460908_0.8530763499438763"
+  },
+  "directories": {},
+  "publish_time": 1487105461598,
+  "_cnpm_publish_time": 1487105461598,
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-swift-support/download/cordova-plugin-swift-support-3.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
