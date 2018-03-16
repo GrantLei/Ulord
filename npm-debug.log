@@ -1,0 +1,44 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/Users/guolei/Desktop/Ulord-Wallet/Ulord-Wallet/node_modules/.bin/npm',
+1 verbose cli   'run',
+1 verbose cli   'build:osx' ]
+2 info using npm@2.15.12
+3 info using node@v8.10.0
+4 warn invalid config loglevel="notice"
+5 verbose run-script [ 'prebuild:osx', 'build:osx', 'postbuild:osx' ]
+6 info prebuild:osx ulord@0.1.0
+7 info build:osx ulord@0.1.0
+8 verbose unsafe-perm in lifecycle true
+9 info ulord@0.1.0 Failed to exec build:osx script
+10 verbose stack Error: ulord@0.1.0 build:osx: `grunt osx`
+10 verbose stack Exit status 3
+10 verbose stack     at EventEmitter.<anonymous> (/Users/guolei/Desktop/Ulord-Wallet/Ulord-Wallet/node_modules/npm/lib/utils/lifecycle.js:217:16)
+10 verbose stack     at emitTwo (events.js:126:13)
+10 verbose stack     at EventEmitter.emit (events.js:214:7)
+10 verbose stack     at ChildProcess.<anonymous> (/Users/guolei/Desktop/Ulord-Wallet/Ulord-Wallet/node_modules/npm/lib/utils/spawn.js:24:14)
+10 verbose stack     at emitTwo (events.js:126:13)
+10 verbose stack     at ChildProcess.emit (events.js:214:7)
+10 verbose stack     at maybeClose (internal/child_process.js:925:16)
+10 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+11 verbose pkgid ulord@0.1.0
+12 verbose cwd /Users/guolei/Desktop/Ulord-Wallet/Ulord-Wallet
+13 error Darwin 17.4.0
+14 error argv "/usr/local/bin/node" "/Users/guolei/Desktop/Ulord-Wallet/Ulord-Wallet/node_modules/.bin/npm" "run" "build:osx"
+15 error node v8.10.0
+16 error npm  v2.15.12
+17 error code ELIFECYCLE
+18 error ulord@0.1.0 build:osx: `grunt osx`
+18 error Exit status 3
+19 error Failed at the ulord@0.1.0 build:osx script 'grunt osx'.
+19 error This is most likely a problem with the ulord package,
+19 error not with npm itself.
+19 error Tell the author that this fails on your system:
+19 error     grunt osx
+19 error You can get information on how to open an issue for this project with:
+19 error     npm bugs ulord
+19 error Or if that isn't available, you can get their info via:
+19 error
+19 error     npm owner ls ulord
+19 error There is likely additional logging output above.
+20 verbose exit [ 1, true ]

@@ -1,0 +1,13 @@
+{
+  "//": "        Modify it in the app-template directory",
+  "name": "Ulord Wallet",
+  "app_id": "com.ulord.wallet",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
