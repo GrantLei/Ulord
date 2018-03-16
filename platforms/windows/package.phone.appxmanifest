@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+    <Identity Name="18C7659D.Copay-SecureBitcoinWallet" Publisher="CN=$username$" Version="3.11.1.0" />
+    <mp:PhoneIdentity PhoneProductId="faf7d1b0-f66e-11e7-b552-3145e1c641ae" PhonePublisherId="db093ed5-53b1-45f7-af72-751e8f36ab80" />
+    <Properties>
+        <DisplayName>Copay - Secure Bitcoin Wallet</DisplayName>
+        <PublisherDisplayName>BitPay Inc.</PublisherDisplayName>
+        <Logo>images\StoreLogo.png</Logo>
+        <Description>Copay Bitcoin Wallet</Description>
+    </Properties>
+    <Prerequisites>
+        <OSMinVersion>6.3.1</OSMinVersion>
+        <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+    </Prerequisites>
+    <Resources>
+        <Resource Language="x-generate" />
+    </Resources>
+    <Applications>
+        <Application Id="com.bitpay.copay" StartPage="www/index.html">
+            <m3:VisualElements BackgroundColor="transparent" Description="Copay Bitcoin Wallet" DisplayName="Copay" ForegroundText="light" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+                <m3:DefaultTile Square71x71Logo="images\Square71x71Logo.png" Wide310x150Logo="images\Wide310x150Logo.png">
+                    <m3:ShowNameOnTiles>
+                        <m3:ShowOn Tile="square150x150Logo" />
+                        <m3:ShowOn Tile="wide310x150Logo" />
+                    </m3:ShowNameOnTiles>
+                </m3:DefaultTile>
+                <m3:SplashScreen Image="images\SplashScreenPhone.png" />
+                <m3:InitialRotationPreference>
+                    <m3:Rotation Preference="portrait" />
+                    <m3:Rotation Preference="landscape" />
+                    <m3:Rotation Preference="landscapeFlipped" />
+                </m3:InitialRotationPreference>
+            </m3:VisualElements>
+            <Extensions>
+                <Extension Category="windows.protocol" StartPage="www/index.html">
+                    <Protocol Name="bitcoin" />
+                </Extension>
+            </Extensions>
+        </Application>
+    </Applications>
+    <Capabilities>
+        <Capability Name="internetClientServer" />
+        <DeviceCapability Name="webcam" />
+    </Capabilities>
+</Package>
